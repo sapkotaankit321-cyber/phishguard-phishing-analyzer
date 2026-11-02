@@ -1,0 +1,8 @@
+# sample URLs (defanged-safe documentation ranges / fictitious domains)
+https://www.google.com/search?q=python
+http://192.0.2.10/office365/login.php
+https://bit.ly/3xYzAbC
+https://xn--pple-43d.com/verify
+http://secure-login.microsoft.account-update.qz7vkd9xpl2m.click/confirm
+https://github.com/ankitsapkota
+https://user@evil.example.top/amazon/invoice

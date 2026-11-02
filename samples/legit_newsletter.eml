@@ -1,0 +1,9 @@
+From: "GitHub" <noreply@github.com>
+To: dev@example.com
+Subject: Your weekly digest
+Authentication-Results: mx.example.com; spf=pass; dkim=pass; dmarc=pass
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+
+Here are the trending repositories this week: https://github.com/trending
+Manage notifications at https://github.com/settings/notifications
